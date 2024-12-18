@@ -1,0 +1,34 @@
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.exe
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.deps.json
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.runtimeconfig.json
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.dll
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.pdb
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.csproj.AssemblyReference.cache
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic_Tac_Toe_3._0.Form1.resources
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.csproj.GenerateResource.cache
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.AssemblyInfoInputs.cache
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.AssemblyInfo.cs
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.csproj.CoreCompileInputs.cache
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.dll
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\refint\Tic-Tac-Toe_3.0.dll
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.pdb
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.genruntimeconfig.cache
+C:\Users\WGS 17\Desktop\Programming L\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\ref\Tic-Tac-Toe_3.0.dll
+D:\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.exe
+D:\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.deps.json
+D:\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.runtimeconfig.json
+D:\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.dll
+D:\Tic-Tac-Toe_3.0\bin\Debug\net6.0-windows\Tic-Tac-Toe_3.0.pdb
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.csproj.AssemblyReference.cache
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic_Tac_Toe_3._0.Form1.resources
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.csproj.GenerateResource.cache
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.AssemblyInfoInputs.cache
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.AssemblyInfo.cs
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.csproj.CoreCompileInputs.cache
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.dll
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\refint\Tic-Tac-Toe_3.0.dll
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.pdb
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\Tic-Tac-Toe_3.0.genruntimeconfig.cache
+D:\Tic-Tac-Toe_3.0\obj\Debug\net6.0-windows\ref\Tic-Tac-Toe_3.0.dll
